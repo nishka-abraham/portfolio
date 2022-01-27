@@ -1,0 +1,9 @@
+
+body{
+  background: url(coffee-apple.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background: cover;
+  -moz-background: cover;
+  -o-background: cover;
+  background: cover;
+}
